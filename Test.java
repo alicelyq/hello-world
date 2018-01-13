@@ -3,5 +3,6 @@ public class Test {
 		System.out.println("hello");
     	System.out.println("Alice");
 		System.out.println("jingbo wang");
+        System.out.println("I am not a genious");
 	}
 }
